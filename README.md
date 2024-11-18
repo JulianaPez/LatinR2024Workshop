@@ -39,5 +39,7 @@ En la actividad de [Colaboración](https://git4researchers.github.io/LatinR2024W
 - [Yanina Bellini Saibene](https://github.com/yabellini)
 
 
+
 Participantes:
 - []()
+- - [Juliana Herrera](https://github.com/JulianaPez)
